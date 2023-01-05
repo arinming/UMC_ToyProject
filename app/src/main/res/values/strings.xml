@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToyProject</string>
+    <string name="add_word">추가</string>
+    <string name="hint_word">입력하세요...</string>
+    <string name="button_save">저장</string>
+    <string name="empty_not_saved">아무런 입력이 없기 때문에 저장되지 않았습니다.</string>
+</resources>
